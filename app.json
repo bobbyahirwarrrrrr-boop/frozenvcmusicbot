@@ -1,32 +1,32 @@
 {
-  "name": "Frozen Music Bot",
-  "description": "❄️ Frozen Music — Free Telegram VC music bot that runs on Render, Koyeb, Railway & Heroku easily!",
+  "name": "Bobby Music Bot",
+  "description": "❄️ Bobby Music Bot — Free Telegram VC music bot that runs on Render, Koyeb, Railway & Heroku easily!",
   "repository": "https://github.com/prashantsahlot/frozenvcmusicbot",
   "logo": "https://telegra.ph/file/d02b81736a7e9519c6386.jpg",
   "keywords": ["telegram", "music", "bot", "vc", "python"],
   "env": {
     "API_HASH": {
-      "description": "Your Telegram API_HASH from https://my.telegram.org",
+      "bff295e212736b4ddfd18230d6ee779a": "Your Telegram API_HASH from https://my.telegram.org",
       "required": true
     },
     "API_ID": {
-      "description": "Your Telegram API_ID from https://my.telegram.org",
+      "26553510": "Your Telegram API_ID from https://my.telegram.org",
       "required": true
     },
     "ASSISTANT_SESSION": {
-      "description": "Pyrogram string session for assistant account",
+      "BQE1hZwAWFs8zkxqdQNWzIpIZ58NU9sujXHJgFzK4RP3GkgBmP0CAuhZI0TssjPXpSpwHVY9dKXRmn-ZH9tgvPhStBJsfG1ZwXH9eiKz8eGPhA-N5fTcAQ7OwXNgPQz_3ix0Ov2ZfQ5qOjs22zBCsh3b2VaXBCbwP3VPdmbMV2zgUqtqBWxxFC6OP6zsdToIe1MYIb_6AUkaGeKm00W3P0-e82wXEIBVZWNfgWLkybA_o3vonBeMIzl03m499FCBT_-8uzel7bZnD1Phn31eYb8WLRM4iEgQwDVb_Vv3OzgAqxee23KB0q8Xlw5iI8XrsuoL1K6-6ryKmhn4_8h5yQwMVUdhJAAAAAF85ACCAA": "Pyrogram string session for assistant account",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram bot token from @BotFather",
+      "8266146620:AAER3I15xhqTDGpc3ITckLPYnly_K1bw8Uc": "Your Telegram bot token from @BotFather",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram user ID (integer, e.g. 123456789)",
+      "6390284418": "Your Telegram user ID (integer, e.g. 123456789)",
       "required": true
     },
     "MongoDB_url": {
-      "description": "MongoDB URL (can use Atlas or local Mongo)",
+      "mongodb+srv://rj5706603:O95nvJYxapyDHfkw@cluster0.fzmckei.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0": "MongoDB URL (can use Atlas or local Mongo)",
       "required": true
     },
     "UPDATES_CHANNEL": {
@@ -34,7 +34,7 @@
       "required": false
     },
     "SUPPORT_GROUP": {
-      "description": "Telegram support group link (default: Frozensupport1)",
+      "Moviesmasterdiscussion": "Telegram support group link (default: Frozensupport1)",
       "required": false
     },
     "START_ANIMATION": {
